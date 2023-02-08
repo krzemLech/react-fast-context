@@ -1,0 +1,9 @@
+body {
+  padding: 15px;
+}
+
+.container {
+  border: 1px solid #b4b4b4;
+  padding: 15px;
+  margin-bottom: 10px;
+}
